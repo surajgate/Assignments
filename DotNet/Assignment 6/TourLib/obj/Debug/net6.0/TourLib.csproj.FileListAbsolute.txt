@@ -1,0 +1,12 @@
+D:\Assignment\DotNet\Assignment 6\TourLib\bin\Debug\net6.0\TourLib.deps.json
+D:\Assignment\DotNet\Assignment 6\TourLib\bin\Debug\net6.0\TourLib.dll
+D:\Assignment\DotNet\Assignment 6\TourLib\bin\Debug\net6.0\TourLib.pdb
+D:\Assignment\DotNet\Assignment 6\TourLib\obj\Debug\net6.0\TourLib.csproj.AssemblyReference.cache
+D:\Assignment\DotNet\Assignment 6\TourLib\obj\Debug\net6.0\TourLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\DotNet\Assignment 6\TourLib\obj\Debug\net6.0\TourLib.AssemblyInfoInputs.cache
+D:\Assignment\DotNet\Assignment 6\TourLib\obj\Debug\net6.0\TourLib.AssemblyInfo.cs
+D:\Assignment\DotNet\Assignment 6\TourLib\obj\Debug\net6.0\TourLib.csproj.CoreCompileInputs.cache
+D:\Assignment\DotNet\Assignment 6\TourLib\obj\Debug\net6.0\TourLib.dll
+D:\Assignment\DotNet\Assignment 6\TourLib\obj\Debug\net6.0\refint\TourLib.dll
+D:\Assignment\DotNet\Assignment 6\TourLib\obj\Debug\net6.0\TourLib.pdb
+D:\Assignment\DotNet\Assignment 6\TourLib\obj\Debug\net6.0\ref\TourLib.dll
